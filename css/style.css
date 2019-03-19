@@ -1,0 +1,18 @@
+body {
+    background-image: url("http://pamis.org.uk/site/uploads/musicworkshop-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+
+button {
+    color: black;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: rgb(255, 51, 153)
+}
+    
